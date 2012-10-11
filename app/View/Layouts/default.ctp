@@ -34,7 +34,7 @@
         
         
         // Add files to default script block
-        //$this->Html->script(array('carousel.js'), array('inline' => false));
+        $this->Html->script(array('carousel.js'), array('inline' => false));
 	?>
 </head>
 <body>
