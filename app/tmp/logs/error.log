@@ -1,0 +1,35 @@
+2012-09-26 20:13:02 Error: [MissingActionException] Action EasyCompressorController::js.js() could not be found.
+#0 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(EasyCompressorController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/glauco/Projects/cakephp-test/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-26 20:13:18 Error: [MissingActionException] Action EasyCompressorController::js.js() could not be found.
+#0 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(EasyCompressorController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/glauco/Projects/cakephp-test/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-26 20:13:18 Error: [MissingActionException] Action EasyCompressorController::js.js() could not be found.
+#0 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(EasyCompressorController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/glauco/Projects/cakephp-test/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-26 20:13:19 Error: [MissingActionException] Action EasyCompressorController::js.js() could not be found.
+#0 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(EasyCompressorController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/glauco/Projects/cakephp-test/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-26 20:13:19 Error: [MissingActionException] Action EasyCompressorController::js.js() could not be found.
+#0 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(EasyCompressorController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/glauco/Projects/cakephp-test/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-26 20:13:19 Error: [MissingActionException] Action EasyCompressorController::js.js() could not be found.
+#0 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(EasyCompressorController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/glauco/Projects/cakephp-test/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-26 20:14:48 Error: [MissingActionException] Action EasyCompressorController::js.js() could not be found.
+#0 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /home/glauco/Projects/cakephp-test/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(EasyCompressorController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/glauco/Projects/cakephp-test/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
